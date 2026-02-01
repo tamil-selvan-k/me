@@ -23,7 +23,7 @@ const Education = () => {
               <GraduationCap className="w-8 h-8 text-primary" />
             </div>
             
-            <h3 className="heading-md mb-2">B.Tech – Information Technology</h3>
+            <h3 className="heading-md mb-2">B.Tech - Information Technology</h3>
             <p className="text-lg text-muted-foreground mb-4">
               St. Joseph's Institute of Technology, Chennai
             </p>
@@ -36,7 +36,7 @@ const Education = () => {
               <div className="w-px h-12 bg-border" />
               <div>
                 <span className="text-muted-foreground">Duration</span>
-                <p className="text-lg font-medium">2024 – 2028</p>
+                <p className="text-lg font-medium">2024 - 2028</p>
               </div>
             </div>
           </div>

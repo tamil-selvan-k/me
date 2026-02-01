@@ -45,7 +45,7 @@ const CodingProfiles = () => {
         >
           <h2 className="heading-lg mb-4">Competitive Programming</h2>
           <p className="text-muted-foreground mb-12">
-            Active problem solver with 1800+ problems solved across platforms
+            Active problem solver with 2000+ problems solved across platforms
           </p>
           
           <div className="flex flex-wrap gap-4 justify-center">

@@ -41,7 +41,7 @@ const Footer = () => {
           
           {/* Copyright */}
           <p className="text-xs text-muted-foreground/60">
-            © {new Date().getFullYear()} Tamil Selvan K. All rights reserved.
+            &copy; {new Date().getFullYear()} Tamil Selvan K. All rights reserved.
           </p>
         </div>
       </div>
