@@ -17,7 +17,7 @@ const skillCategories = [
   },
   {
     title: "Cloud & DevOps",
-    skills: ["AWS (EC2, S3, RDS, Amplify)", "AWS Security (IAM)", "Docker", "CI/CD Pipelines", "CLI"],
+    skills: ["AWS (EC2, S3, RDS, Amplify)", "AWS Security (IAM)", "Docker Basics", "CI/CD Pipelines", "Linux Basics"],
   },
   {
     title: "Tools",

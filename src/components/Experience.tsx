@@ -15,8 +15,8 @@ const experiences = [
     title: "Full Stack Developer Intern",
     company: "Vittae Money",
     description:
-      "Improved backend performance by 60% through code optimization and efficient database queries. Built scalable backend services and worked extensively with AWS services including EC2 and S3. Contributed to production-ready systems handling real user traffic.",
-    highlights: ["60% Performance Boost", "AWS (EC2, S3)", "Scalable Architecture", "Production Systems"],
+      "Improved backend performance by 10% through code optimization and efficient database queries. Built scalable backend services and worked extensively with AWS services including EC2 and S3. Contributed to production-ready systems handling real user traffic.",
+    highlights: ["10% Performance Boost", "AWS (EC2, S3)", "Scalable Architecture", "Production Systems"],
   },
   {
     title: "Web Developer Intern",

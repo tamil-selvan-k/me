@@ -22,19 +22,21 @@ const Navbar = () => {
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
+  const logo = '<TS/>';
+
   return (
     <motion.nav
       initial={{ y: -100 }}
       animate={{ y: 0 }}
       className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
-        isScrolled ? "bg-background/80 backdrop-blur-lg border-b border-border" : ""
+        isScrolled ? "bg-background/80 backdrop-blur-lg backdrop-filter border-b border-border" : ""
       }`}
     >
       <div className="section-container">
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
-          <a href="#" className="font-bold text-lg">
-            <span className="text-primary">T</span>amil
+          <a href="/" className="font-bold text-lg">
+            Tamil<span className="text-primary"> dev</span>
           </a>
 
           {/* Desktop Navigation */}
